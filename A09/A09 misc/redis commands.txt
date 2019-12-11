@@ -1,0 +1,8 @@
+cd /mnt/c/Users/Ben-Study/Desktop/redis/ 
+cd 7000
+redis-server ./redis.conf
+
+##IN BASH ./nameoffile.sh
+
+sudo service redis-server start/stop/restart
+redis-cli -c -p 7000

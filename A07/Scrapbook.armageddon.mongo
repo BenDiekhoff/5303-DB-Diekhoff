@@ -1,0 +1,19 @@
+
+// Find all objects
+db.airports.find()
+db.cities.find()
+db.earthquakes.find()
+db.meteorites.find()
+db.ufos.find()
+db.volcanos.find()
+
+// Create a 2D index for each table
+db.airports.createIndex( { loc : "2dsphere" } )
+db.cities.createIndex( { loc : "2dsphere" } )
+db.earthquakes.createIndex( { loc : "2dsphere" } )
+db.meteorites.createIndex( { loc : "2dsphere" } )
+db.ufos.createIndex( { loc : "2dsphere" } )
+db.volcanos.createIndex( { loc : "2dsphere" } )
+
+
+

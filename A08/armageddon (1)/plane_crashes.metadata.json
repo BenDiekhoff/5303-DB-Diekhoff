@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"armageddon.plane_crashes"}],"uuid":"8a47576a00e043939dfdedb9b43877ac"}

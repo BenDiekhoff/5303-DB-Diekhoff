@@ -1,0 +1,5220 @@
+Connected...<pre>SELECT distinct(country) FROM `a06_airports` 
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    144.29600524902344,
+                    -5.826789855957031
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -47.156249284699996,
+                    60.7809592284
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -14.850600242614746,
+                    65.72059631347656
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.333000183,
+                    51.736099243199995
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.923888981342,
+                    21.375
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.940381,
+                    11.14479
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.33096981048584,
+                    11.160099983215332
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.7747600078582764,
+                    4.896059989929199
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.69611,
+                    12.1717
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.983759880065918,
+                    13.779000282287598
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.822500228881836,
+                    34.422000885009766
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.47138214111328125,
+                    10.373010635375977
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.957779884338379,
+                    50.781700134277344
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.616319656369999,
+                    51.614101409899995
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.002500534057617,
+                    58.14830017089844
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.239400863647,
+                    65.987602233887
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.69193983078,
+                    54.5811004639
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.6019699573516846,
+                    49.435001373291016
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.195509910583496,
+                    49.20790100097656
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.623889923095703,
+                    54.08330154418945
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -57.777599334717,
+                    -51.685699462891
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.52722,
+                    52.4603
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.340999603271484,
+                    55.0442008972168
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.840570449829102,
+                    54.9296989440918
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.758500099182129,
+                    61.685298919677734
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.2044444,
+                    49.6233333
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.14610004425,
+                    64.838302612305
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.08,
+                    50.4743
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.6394,
+                    59.6759
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.0443000793457,
+                    -27.626100540161133
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.8288,
+                    -22.0583
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.91,
+                    -1.226666
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.505699157714844,
+                    -10.765899658203125
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.3075008392334,
+                    -26.52899932861328
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.518800735473633,
+                    4.39847993850708
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.805680274963379,
+                    1.9054700136184692
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -14.3937,
+                    -7.9696
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    63.361,
+                    -19.7577
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.411102,
+                    -7.31327
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.553299903869629,
+                    3.722559928894043
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.872600555419922,
+                    -11.13700008392334
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.76639938354492,
+                    -12.298100471496582
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.28110122680664,
+                    -12.804699897766113
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.42499923706055,
+                    -21.320899963378906
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.063713073699994,
+                    -19.8392214824
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.2312,
+                    -8.85837
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.674076080322266,
+                    -3.4584197998046875
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.411739826202393,
+                    1.6629400253295898
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.40850067138672,
+                    -23.876399993896484
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    52.7262,
+                    -7.00478
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.034,
+                    12.1337
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.18450164794922,
+                    -17.431900024414062
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.13249969482422,
+                    -14.306900024414062
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.50349998474121,
+                    -29.304100036621094
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.699999809265137,
+                    11.333000183105469
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.65220069885254,
+                    13.338000297546387
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.34946012497,
+                    36.645198822
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -13.12909984588623,
+                    8.397130012512207
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.180500030517578,
+                    11.2878999710083
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10.758700370788574,
+                    6.289060115814209
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.589970111846924,
+                    33.36750030517578
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.051300048828125,
+                    14.146900177001953
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -13.507599830627441,
+                    16.159500122070312
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10.7698001862,
+                    10.0354995728
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -23.213699340820312,
+                    15.155900001525879
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.81660079956055,
+                    7.66609001159668
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.318500518798828,
+                    -3.3240199089050293
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.94110107421875,
+                    10.389200210571289
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.94890022277832,
+                    31.183900833129883
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.594200134277344,
+                    -4.034830093383789
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.715310096740723,
+                    30.15169906616211
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.1395,
+                    -1.96863
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.3367,
+                    11.7859
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.58300018310547,
+                    4.400000095367432
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.07120132446289,
+                    -5.092360019683838
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.1232,
+                    2.953
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7206001282,
+                    41.4146995544
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.411436080932617,
+                    42.696693420410156
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.48569869995117,
+                    34.71799850463867
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.922200202941895,
+                    44.89350128173828
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.53282,
+                    44.502102
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -56.173099517822266,
+                    46.762901306152344
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.3470993042,
+                    37.6827011108
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.605600357055664,
+                    46.74720001220703
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.64963,
+                    45.200802
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4576,
+                    46.223701
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.439699172973633,
+                    49.02939987182617
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.38859939575195,
+                    31.32819938659668
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2728,
+                    36.027199
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.7442,
+                    47.202801
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.445139884949999,
+                    41.5871009827
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.72480010986328,
+                    44.45869827270508
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.412500381469727,
+                    46.46770095825195
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.753366470336914,
+                    46.029319763183594
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    41.17020034789999,
+                    39.9565010071
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.263700485199998,
+                    45.8437995911
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.621401,
+                    41.961601
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.3496599197400005,
+                    36.1511993408
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.2575,
+                    44.935299
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.72330093383789,
+                    42.404701232910156
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.2411003113,
+                    49.073600769
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.26589965820312,
+                    21.77359962463379
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.6447982788086,
+                    17.929000854492188
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.15059661865234,
+                    15.012200355529785
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.923599,
+                    15.4526
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.7874984741211,
+                    17.935699462890625
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.97599792480469,
+                    31.22610092163086
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.40889739990234,
+                    13.889699935913086
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.25080108642578,
+                    9.340849876403809
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.65299987790002,
+                    9.976490020750001
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.055702,
+                    13.4409
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.78829956054688,
+                    18.271099090576172
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.67839813232422,
+                    22.42140007019043
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.088826,
+                    19.660161
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.79560089111328,
+                    24.697900772094727
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.30819702148438,
+                    17.539100646972656
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -158.11900329589844,
+                    -19.96780014038086
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    177.368,
+                    -16.966
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -174.34100341796875,
+                    -19.777000427246094
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    173.82899475097656,
+                    0.49083301424980164
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -176.199005127,
+                    -13.2383003235
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -172.25799560546875,
+                    -13.742300033569336
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -169.425003,
+                    -14.2172
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -140.88699340820312,
+                    -15.819899559020996
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.587005615,
+                    -14.218099594099998
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    165.25900268554688,
+                    -20.790000915527344
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    170.197998046875,
+                    -45.9281005859375
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -56.6307983398,
+                    -64.2382965088
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    61.865833,
+                    30.972222
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    50.63359832763672,
+                    26.27079963684082
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.0634,
+                    24.144199
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.2765007019,
+                    31.9048995972
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.991600036621094,
+                    31.972700119018555
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.219200134277,
+                    31.864700317383
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.791900634799994,
+                    28.9347991943
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.01129913330078,
+                    34.589298248291016
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.547698974599996,
+                    24.248199462900004
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.024600982666016,
+                    17.666000366210938
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.27960205078125,
+                    28.383899688720703
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.66210174560547,
+                    30.549100875854492
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.51559829711914,
+                    33.4114990234375
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.565102,
+                    25.261101
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145.61900329589844,
+                    14.999199867248535
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    144.796005249,
+                    13.4834003448
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    162.3280029296875,
+                    11.340700149536133
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -177.38099670410156,
+                    28.20170021057129
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.082993,
+                    9.49891
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.544236,
+                    7.36731
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.26300048828125,
+                    22.782499313354492
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    143.216995239,
+                    42.7332992554
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    127.112718,
+                    37.444744
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.24099731445312,
+                    16.034799575805664
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.418198,
+                    -31.571501
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.4508,
+                    -11.496
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.78579711914062,
+                    -33.393001556396484
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.615799,
+                    -0.906833
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.619998931884766,
+                    -22.049999237060547
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.857179,
+                    6.951868
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -65.72370147710001,
+                    -19.5431003571
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -56.126412,
+                    2.026438
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -54.034401,
+                    5.48306
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.20480346679688,
+                    -9.878809928894043
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -56.49919891357422,
+                    -33.3588981628418
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -62.85443115234375,
+                    6.231988906860352
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.60499954223633,
+                    4.013879776000977
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.792702,
+                    17.1367
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -59.4925003052,
+                    13.0746002197
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.3922004699707,
+                    15.336700439453125
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.00320053100586,
+                    14.590999603271484
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.27000045776367,
+                    15.86870002746582
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.78620147705078,
+                    12.004199981689453
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -64.79859924316406,
+                    17.701900482177734
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -65.4226989746,
+                    18.115800857500002
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -62.71870040893555,
+                    17.311199188232422
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.952599,
+                    13.7332
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.015198,
+                    12.5014
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -63.1088981628,
+                    18.041000366200002
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -63.055099,
+                    18.2048
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.83219909667969,
+                    11.149700164794922
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -64.42749786376953,
+                    18.446399688720703
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.41194534301758,
+                    12.60013484954834
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    63.210773,
+                    45.621994
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.713046,
+                    42.58792
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.667221,
+                    41.562222
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    92.11250305175781,
+                    58.47420120239258
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.141599655151367,
+                    50.60710144042969
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.016700744628906,
+                    52.527000427246094
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    59.826698,
+                    41.761101
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.8249969482,
+                    38.543300628699996
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    64.23320007324219,
+                    41.61389923095703
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    75.006103515625,
+                    29.56060028076172
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.7285003662,
+                    7.956669807430001
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.564002991,
+                    12.255200386
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    91.96389770507812,
+                    21.452199935913086
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.08000183105469,
+                    22.436599731445312
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.21800231933594,
+                    19.45490074157715
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.592003,
+                    22.149599
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.66999816894531,
+                    27.25309944152832
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    90.7471,
+                    27.5622
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.1533,
+                    2.211
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.36170196533203,
+                    10.711199760437012
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    108.01699829101562,
+                    14.004500389099121
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    96.200996,
+                    19.623501
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.148456,
+                    47.682043
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.16000366210938,
+                    2.8181800842285156
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.9280014038086,
+                    4.944200038909912
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    125.526000977,
+                    -8.54640007019
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.994003,
+                    1.35019
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    147.62100219726562,
+                    -22.773099899291992
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.69000244140625,
+                    -10.450599670410156
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.93899536132812,
+                    -29.04159927368164
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.930000305,
+                    40.7386016846
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    129.647555,
+                    41.428538
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.7040023803711,
+                    46.163299560546875
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.8134994506836,
+                    40.27669906616211
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.2266998291,
+                    56.8833007812
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.8815,
+                    54.879799
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.3959007263,
+                    40.1473007202
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.37009811401367,
+                    15.670000076293945
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.276100158691,
+                    31.24640083313
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.4826011658,
+                    42.176700592
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.139099121099996,
+                    13.6859998703
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -64.67870330810547,
+                    32.36399841308594
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    157.87600708007812,
+                    -8.578889846801758
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.919006,
+                    -0.547458
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    179.195999,
+                    -8.525
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.242899894714355,
+                    -26.687400817871094
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.266998291015625,
+                    11.967000007629395
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -62.19329833984375,
+                    16.791400909423828
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -169.533996582,
+                    16.7285995483
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.932,
+                    23.7183
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -169.92559814453125,
+                    -19.079030990600586
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    96.8339004517,
+                    -12.1883001328
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    94.05110168457031,
+                    23.188800811767578
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.8743,
+                    78.9274978638
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    166.63600158691406,
+                    19.282100677490234
+                ]
+            },
+            "properties": {
+                "title": "Starting Point",
+                "description": "Somewhere in the US",
+                "marker-size": "medium",
+                "marker-symbol": "airport",
+                "marker-color": "#f00",
+                "stroke": "#555555",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill": "#555555",
+                "fill-opacity": 0.5
+            }
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+OLD cmd Start in : %HOMEDRIVE%%HOMEPATH%
+NEW cmd Start in : C:\Users\Ben-Study\Google Drive\School\Fall 19\CMPS 5303 Database MGMT\
+
+cd C:\Users\Ben-Study\Google Drive\School\Fall 19\CMPS 5303 Database MGMT\A07
+
+
+docker cp ufo_sightings.csv mongodb:/tmp/ufo_sightings.csv
+docker cp airports.csv mongodb:/tmp/airports.csv
+docker cp earthquakes.csv mongodb:/tmp/earthquakes.csv
+docker cp cities.csv mongodb:/tmp/cities.csv
+docker cp meteorites.json mongodb:/tmp/meteorites.json
+docker cp volcanos.json mongodb:/tmp/volcanos.json
+
+docker exec mongodb mongoimport --db armageddon --collection ufos --type csv --headerline --file /tmp/ufo_sightings.csv
+docker exec mongodb mongoimport --db armageddon --collection airports --type csv --headerline --file /tmp/airports.csv
+docker exec mongodb mongoimport --db armageddon --collection earthquakes --type csv --headerline --file /tmp/earthquakes.csv
+docker exec mongodb mongoimport --db armageddon --collection cities --type csv --headerline --file /tmp/cities.csv
+docker exec mongodb mongoimport --db armageddon --collection meteorites --type json --file /tmp/meteorites.json
+docker exec mongodb mongoimport --db armageddon --collection volcanos --type json --file /tmp/volcanos.json
+
+UFOS: 88875 - 1698 = 87177
+AIRPORTS: 7698 -3 = 7695
+EARTHQUAKES: 23119 - 0 = 23119
+VOLCANOS: 1546 - 2 = 1544
+METEORITES: 45716 - 7315 = 38401
+CITIES: 128215 - 0 = 128215
+PLANE CRASHES: 74429
+
+db.meteorites.updateMany( {}, { $rename: { "reclat": "latitude" } } )
+db.meteorites.updateMany( {}, { $rename: { "reclong": "longitude" } } )
+
+
+===============================================================================================
+A08 
+===============================================================================================
+cd C:\Users\Ben-Study\Google Drive\School\Fall 19\CMPS 5303 Database MGMT\A08
+
+docker exec -it mongodb mongodump -d <dbname>											//BACKUP
+docker cp mongodb:dump/<dbname> <path where you want the dump (use ./)>					//MOVE TO PC
+
+docker cp <backupPath> mongodb:/tmp/<backupPath???>								//RESTORE -- MOVE FROM PC (untested)
+docker exec -i mongodb mongorestore -d armageddon /dump/armageddon				//RESTORE (may need to change path at end)
+docker cp plane_crashes.json mongodb:/tmp/plane_crashes.json
+docker exec mongodb mongoimport --db armageddon --collection plane_crashes --jsonArray --file /tmp/plane_crashes.json
+
+
+docker cp ufos_export.json mongodb:/tmp/ufos_export.json
+docker cp countries_export.json mongodb:/tmp/countries_export.json
+docker cp plane_crashes.json mongodb:/tmp/plane_crashes.json
+docker cp meteorites_export.json mongodb:/tmp/meteorites_export.json
+docker cp volcanos_export.json mongodb:/tmp/volcanos_export.json
+
+docker exec mongodb mongoimport --db armageddon --collection ufos --type json --file /tmp/ufos_export.json
+docker exec mongodb mongoimport --db armageddon --collection countries --type json --file /tmp/countries_export.json
+docker exec mongodb mongoimport --db armageddon --collection plane_crashes --jsonArray --file /tmp/plane_crashes.json
+docker exec mongodb mongoimport --db armageddon --collection meteorites --type json --file /tmp/meteorites_export.json
+docker exec mongodb mongoimport --db armageddon --collection volcanos --type json --file /tmp/volcanos_export.json
+
+docker exec -it mongodb mongoexport --db armageddon --collection plane_crashes --out /test/plane_crashes_fix.json
+docker cp mongodb:test/plane_crashes_fix.json ./	
+
+"Latitude":"(\s-*\d*\.*\d*\s)","Longitude":"(\s-*\d*\.*\d*\s)","
+"latitude":\1,"longitude":\2,"
+
+PLANE CRASHES = 74429
+
+
+
+
+
+PLANE CRASHES = 74429 - 53161 = 21268
+
+
+docker cp plane_crashes_fix.json mongodb:/tmp/plane_crashes_fix.json
+docker exec mongodb mongoimport --db armageddon --collection plane_crashes2 --type json --file /tmp/plane_crashes_fixed.json
+
+docker exec -it mongodb mongoexport --db armageddon --collection plane_crashes --type=csv --fields,  --out /test/plane_crashes_fix.csv
+docker cp mongodb:test/plane_crashes_fix.csv ./

@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"armageddon.cities"},{"v":{"$numberInt":"2"},"key":{"loc":"2dsphere"},"name":"loc_2dsphere","ns":"armageddon.cities","2dsphereIndexVersion":{"$numberInt":"3"}}],"uuid":"9d87825b0b7a41d09774bc26d351e80b"}

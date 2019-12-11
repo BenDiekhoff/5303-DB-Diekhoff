@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"armageddon.volcanos"},{"v":{"$numberInt":"2"},"key":{"loc":"2dsphere"},"name":"loc_2dsphere","ns":"armageddon.volcanos","2dsphereIndexVersion":{"$numberInt":"3"}}],"uuid":"37c183e75e2e42758ee88ab2c62eaf08"}
